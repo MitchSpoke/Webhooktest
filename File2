@@ -1,0 +1,6 @@
+
+<script>  
+var arr = new Array( 100, 200, 300, 400, 500, 600 );  
+document.write(" The elements of array are: " + arr);  
+document.write(" <br>The length of the array is: " + arr.length);  
+</script>  
